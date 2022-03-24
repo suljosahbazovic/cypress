@@ -24,4 +24,5 @@ it('learning assertions', () => {
         assert.strictEqual(4, 4, 'not strictly equal')
 
         /// test test
+        ///
 })
